@@ -1,0 +1,57 @@
+SEMANTICA HTML
+
+<section> = sessão genérica de conteúdo/ uma lista de artigos
+
+<header> = cabeçalho da página ou de parte da página
+
+<article> = conteúdo relevante dentro da página, como um artigo de um blog
+
+<aside> = representa um conteúdo relacionado ao conteúdo principal da página, como biografia de um autor, links relacionados, normalmente representado por uma barra lateral.
+
+<footer> = rodapé da página ou de parte da página (article/section)
+
+<h1>-<h6> = representa a importancia de títulos
+
+
+<a>Link</a>
+
+<a href=""></a> = hiperlink para onde a ancora está apontando
+
+<a target="_blank">Link</a> = indica como link será aberto
+
+
+<img>
+
+<img src="img/avatar.jpg">
+
+<img alt="Foto de avatar">
+
+Acessar: https://tinypng.com/ para remover informações desnecessárias das imagens
+
+__________________________________________________________________________________________________________________________________
+
+INTRODUÇÃO AO CSS3
+
+Seletores
+a, p, h1, h3 {
+
+	Declarações
+	color: blue;
+	font-size: 14px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
